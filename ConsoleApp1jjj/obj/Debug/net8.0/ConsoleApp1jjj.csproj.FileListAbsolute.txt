@@ -1,0 +1,14 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\ConsoleApp1jjj\bin\Debug\net8.0\ConsoleApp1jjj.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\ConsoleApp1jjj\bin\Debug\net8.0\ConsoleApp1jjj.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\ConsoleApp1jjj\bin\Debug\net8.0\ConsoleApp1jjj.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\ConsoleApp1jjj\bin\Debug\net8.0\ConsoleApp1jjj.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\ConsoleApp1jjj\bin\Debug\net8.0\ConsoleApp1jjj.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\ConsoleApp1jjj\obj\Debug\net8.0\ConsoleApp1jjj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\ConsoleApp1jjj\obj\Debug\net8.0\ConsoleApp1jjj.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\ConsoleApp1jjj\obj\Debug\net8.0\ConsoleApp1jjj.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\ConsoleApp1jjj\obj\Debug\net8.0\ConsoleApp1jjj.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\ConsoleApp1jjj\obj\Debug\net8.0\ConsoleApp1jjj.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\ConsoleApp1jjj\obj\Debug\net8.0\refint\ConsoleApp1jjj.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\ConsoleApp1jjj\obj\Debug\net8.0\ConsoleApp1jjj.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\ConsoleApp1jjj\obj\Debug\net8.0\ConsoleApp1jjj.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\ConsoleApp1jjj\obj\Debug\net8.0\ref\ConsoleApp1jjj.dll

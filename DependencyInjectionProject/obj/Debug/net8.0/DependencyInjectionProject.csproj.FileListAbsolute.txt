@@ -1,0 +1,14 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\DependencyInjectionProject\bin\Debug\net8.0\DependencyInjectionProject.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\DependencyInjectionProject\bin\Debug\net8.0\DependencyInjectionProject.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\DependencyInjectionProject\bin\Debug\net8.0\DependencyInjectionProject.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\DependencyInjectionProject\bin\Debug\net8.0\DependencyInjectionProject.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\DependencyInjectionProject\bin\Debug\net8.0\DependencyInjectionProject.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\DependencyInjectionProject\obj\Debug\net8.0\DependencyInjectionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\DependencyInjectionProject\obj\Debug\net8.0\DependencyInjectionProject.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\DependencyInjectionProject\obj\Debug\net8.0\DependencyInjectionProject.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\DependencyInjectionProject\obj\Debug\net8.0\DependencyInjectionProject.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\DependencyInjectionProject\obj\Debug\net8.0\DependencyInjectionProject.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\DependencyInjectionProject\obj\Debug\net8.0\refint\DependencyInjectionProject.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\DependencyInjectionProject\obj\Debug\net8.0\DependencyInjectionProject.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\DependencyInjectionProject\obj\Debug\net8.0\DependencyInjectionProject.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\DependencyInjectionProject\obj\Debug\net8.0\ref\DependencyInjectionProject.dll
