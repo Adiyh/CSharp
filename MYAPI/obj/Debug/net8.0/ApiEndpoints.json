@@ -1,0 +1,111 @@
+[
+  {
+    "ContainingType": "CalculatorController",
+    "Method": "CreateOperation",
+    "RelativePath": "api/Calculator/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "operation",
+        "Type": "CalculatorOperation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculatorController",
+    "Method": "DeleteOperation",
+    "RelativePath": "api/Calculator/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculatorController",
+    "Method": "GetOperation",
+    "RelativePath": "api/Calculator/read/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculatorController",
+    "Method": "UpdateOperation",
+    "RelativePath": "api/Calculator/update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedOperation",
+        "Type": "CalculatorOperation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MYAPI.Controllers.MYAPIController",
+    "Method": "Index",
+    "RelativePath": "api/MYAPI",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MYAPI.Controllers.MYAPIController",
+    "Method": "Vertex",
+    "RelativePath": "api/MYAPI",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MYAPI.Controllers.MYAPIController",
+    "Method": "Adarsh",
+    "RelativePath": "api/MYAPI",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MYAPI.Controllers.MYAPIController",
+    "Method": "akash",
+    "RelativePath": "api/MYAPI",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

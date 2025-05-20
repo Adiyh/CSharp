@@ -1,0 +1,5 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\NewExpenses\bin\Release\net8.0\publish\NewExpenses.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\NewExpenses\bin\Release\net8.0\publish\NewExpenses.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\NewExpenses\bin\Release\net8.0\publish\NewExpenses.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\NewExpenses\bin\Release\net8.0\publish\NewExpenses.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\NewExpenses\bin\Release\net8.0\publish\NewExpenses.pdb

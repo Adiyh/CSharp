@@ -1,0 +1,6 @@
+@LaptopManagementSystem.Api_HostAddress = http://localhost:5064
+
+GET {{LaptopManagementSystem.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

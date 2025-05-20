@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\HashTableProject\obj\Debug\net8.0\HashTableProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\HashTableProject\obj\Debug\net8.0\HashTableProject.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\HashTableProject\obj\Debug\net8.0\HashTableProject.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\HashTableProject\obj\Debug\net8.0\HashTableProject.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\HashTableProject\obj\Debug\net8.0\HashTableProject.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\HashTableProject\bin\Debug\net8.0\HashTableProject.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\HashTableProject\bin\Debug\net8.0\HashTableProject.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\HashTableProject\bin\Debug\net8.0\HashTableProject.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\HashTableProject\bin\Debug\net8.0\HashTableProject.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\HashTableProject\bin\Debug\net8.0\HashTableProject.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\HashTableProject\obj\Debug\net8.0\HashTableProject.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\HashTableProject\obj\Debug\net8.0\refint\HashTableProject.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\HashTableProject\obj\Debug\net8.0\HashTableProject.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\HashTableProject\obj\Debug\net8.0\HashTableProject.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\HashTableProject\obj\Debug\net8.0\ref\HashTableProject.dll

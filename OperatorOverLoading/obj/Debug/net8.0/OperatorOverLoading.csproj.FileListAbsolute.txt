@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\OperatorOverLoading\bin\Debug\net8.0\OperatorOverLoading.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\OperatorOverLoading\bin\Debug\net8.0\OperatorOverLoading.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\OperatorOverLoading\bin\Debug\net8.0\OperatorOverLoading.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\OperatorOverLoading\bin\Debug\net8.0\OperatorOverLoading.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\OperatorOverLoading\bin\Debug\net8.0\OperatorOverLoading.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\OperatorOverLoading\obj\Debug\net8.0\OperatorOverLoading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\OperatorOverLoading\obj\Debug\net8.0\OperatorOverLoading.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\OperatorOverLoading\obj\Debug\net8.0\OperatorOverLoading.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\OperatorOverLoading\obj\Debug\net8.0\OperatorOverLoading.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\OperatorOverLoading\obj\Debug\net8.0\OperatorOverLoading.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\OperatorOverLoading\obj\Debug\net8.0\OperatorOverLoading.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\OperatorOverLoading\obj\Debug\net8.0\refint\OperatorOverLoading.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\OperatorOverLoading\obj\Debug\net8.0\OperatorOverLoading.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\OperatorOverLoading\obj\Debug\net8.0\OperatorOverLoading.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\OperatorOverLoading\obj\Debug\net8.0\ref\OperatorOverLoading.dll

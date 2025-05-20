@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\LaptopService\obj\Debug\net8.0\LaptopService.csproj.AssemblyReference.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\LaptopService\obj\Debug\net8.0\LaptopService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\LaptopService\obj\Debug\net8.0\LaptopService.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\LaptopService\obj\Debug\net8.0\LaptopService.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\LaptopService\obj\Debug\net8.0\LaptopService.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\LaptopService\obj\Debug\net8.0\LaptopService.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\LaptopService\bin\Debug\net8.0\LaptopService.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\LaptopService\bin\Debug\net8.0\LaptopService.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\LaptopService\bin\Debug\net8.0\LaptopService.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\LaptopService\obj\Debug\net8.0\LaptopService.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\LaptopService\obj\Debug\net8.0\refint\LaptopService.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\LaptopService\obj\Debug\net8.0\LaptopService.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\LaptopService\obj\Debug\net8.0\ref\LaptopService.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\LaptopService\bin\Debug\net8.0\LaptopService.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\LaptopService\obj\Debug\net8.0\LaptopService.genruntimeconfig.cache

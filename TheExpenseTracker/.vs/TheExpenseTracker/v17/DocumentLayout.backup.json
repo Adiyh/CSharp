@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\TheExpenseTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F94DD2E-5163-480E-9A9E-43F1193E2F10}|TheExpenseTracker.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\theexpensetracker\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F94DD2E-5163-480E-9A9E-43F1193E2F10}|TheExpenseTracker.csproj|solutionrelative:models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F94DD2E-5163-480E-9A9E-43F1193E2F10}|TheExpenseTracker.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\theexpensetracker\\models\\callingmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F94DD2E-5163-480E-9A9E-43F1193E2F10}|TheExpenseTracker.csproj|solutionrelative:models\\callingmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F94DD2E-5163-480E-9A9E-43F1193E2F10}|TheExpenseTracker.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\theexpensetracker\\business\\expensemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F94DD2E-5163-480E-9A9E-43F1193E2F10}|TheExpenseTracker.csproj|solutionrelative:business\\expensemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F94DD2E-5163-480E-9A9E-43F1193E2F10}|TheExpenseTracker.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\theexpensetracker\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F94DD2E-5163-480E-9A9E-43F1193E2F10}|TheExpenseTracker.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F94DD2E-5163-480E-9A9E-43F1193E2F10}|TheExpenseTracker.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\theexpensetracker\\theexpensetracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F94DD2E-5163-480E-9A9E-43F1193E2F10}|TheExpenseTracker.csproj|solutionrelative:theexpensetracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F94DD2E-5163-480E-9A9E-43F1193E2F10}|TheExpenseTracker.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\theexpensetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F94DD2E-5163-480E-9A9E-43F1193E2F10}|TheExpenseTracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CallingMethod.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\TheExpenseTracker\\Models\\CallingMethod.cs",
+              "RelativeDocumentMoniker": "Models\\CallingMethod.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\TheExpenseTracker\\Models\\CallingMethod.cs",
+              "RelativeToolTip": "Models\\CallingMethod.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:05:05.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\TheExpenseTracker\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\TheExpenseTracker\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:37:30.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\TheExpenseTracker\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\TheExpenseTracker\\Models\\Expense.cs",
+              "RelativeToolTip": "Models\\Expense.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:36:46.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TheExpenseTracker",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\TheExpenseTracker\\TheExpenseTracker.csproj",
+              "RelativeDocumentMoniker": "TheExpenseTracker.csproj",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\TheExpenseTracker\\TheExpenseTracker.csproj",
+              "RelativeToolTip": "TheExpenseTracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T09:29:18.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\TheExpenseTracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\TheExpenseTracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:28:49.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpenseManager.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\TheExpenseTracker\\Business\\ExpenseManager.cs",
+              "RelativeDocumentMoniker": "Business\\ExpenseManager.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\TheExpenseTracker\\Business\\ExpenseManager.cs",
+              "RelativeToolTip": "Business\\ExpenseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:29:37.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

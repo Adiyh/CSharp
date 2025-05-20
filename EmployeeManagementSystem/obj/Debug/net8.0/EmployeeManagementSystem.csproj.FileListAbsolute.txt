@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\EmployeeManagementSystem\obj\Debug\net8.0\refint\EmployeeManagementSystem.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\EmployeeManagementSystem\obj\Debug\net8.0\ref\EmployeeManagementSystem.dll

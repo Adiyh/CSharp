@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\HashSetProject\bin\Debug\net8.0\HashSetProject.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\HashSetProject\bin\Debug\net8.0\HashSetProject.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\HashSetProject\bin\Debug\net8.0\HashSetProject.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\HashSetProject\bin\Debug\net8.0\HashSetProject.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\HashSetProject\bin\Debug\net8.0\HashSetProject.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\HashSetProject\obj\Debug\net8.0\HashSetProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\HashSetProject\obj\Debug\net8.0\HashSetProject.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\HashSetProject\obj\Debug\net8.0\HashSetProject.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\HashSetProject\obj\Debug\net8.0\HashSetProject.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\HashSetProject\obj\Debug\net8.0\HashSetProject.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\HashSetProject\obj\Debug\net8.0\HashSetProject.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\HashSetProject\obj\Debug\net8.0\refint\HashSetProject.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\HashSetProject\obj\Debug\net8.0\HashSetProject.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\HashSetProject\obj\Debug\net8.0\HashSetProject.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\HashSetProject\obj\Debug\net8.0\ref\HashSetProject.dll

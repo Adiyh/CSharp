@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\OverRiding\obj\Debug\net8.0\OverRiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\OverRiding\obj\Debug\net8.0\OverRiding.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\OverRiding\obj\Debug\net8.0\OverRiding.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\OverRiding\obj\Debug\net8.0\OverRiding.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\OverRiding\obj\Debug\net8.0\OverRiding.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\OverRiding\bin\Debug\net8.0\OverRiding.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\OverRiding\bin\Debug\net8.0\OverRiding.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\OverRiding\bin\Debug\net8.0\OverRiding.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\OverRiding\bin\Debug\net8.0\OverRiding.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\OverRiding\bin\Debug\net8.0\OverRiding.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\OverRiding\obj\Debug\net8.0\OverRiding.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\OverRiding\obj\Debug\net8.0\refint\OverRiding.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\OverRiding\obj\Debug\net8.0\OverRiding.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\OverRiding\obj\Debug\net8.0\OverRiding.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\OverRiding\obj\Debug\net8.0\ref\OverRiding.dll

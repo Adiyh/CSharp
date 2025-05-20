@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\PaymentApplication\obj\Debug\net8.0\PaymentApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\PaymentApplication\obj\Debug\net8.0\PaymentApplication.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\PaymentApplication\obj\Debug\net8.0\PaymentApplication.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\PaymentApplication\obj\Debug\net8.0\PaymentApplication.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\PaymentApplication\obj\Debug\net8.0\PaymentApplication.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\PaymentApplication\bin\Debug\net8.0\PaymentApplication.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\PaymentApplication\bin\Debug\net8.0\PaymentApplication.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\PaymentApplication\bin\Debug\net8.0\PaymentApplication.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\PaymentApplication\bin\Debug\net8.0\PaymentApplication.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\PaymentApplication\bin\Debug\net8.0\PaymentApplication.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\PaymentApplication\obj\Debug\net8.0\PaymentApplication.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\PaymentApplication\obj\Debug\net8.0\refint\PaymentApplication.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\PaymentApplication\obj\Debug\net8.0\PaymentApplication.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\PaymentApplication\obj\Debug\net8.0\PaymentApplication.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\PaymentApplication\obj\Debug\net8.0\ref\PaymentApplication.dll

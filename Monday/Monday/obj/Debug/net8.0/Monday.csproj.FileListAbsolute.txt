@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\Monday\Monday\bin\Debug\net8.0\Monday.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\Monday\Monday\bin\Debug\net8.0\Monday.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\Monday\Monday\bin\Debug\net8.0\Monday.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\Monday\Monday\bin\Debug\net8.0\Monday.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\Monday\Monday\bin\Debug\net8.0\Monday.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\Monday\Monday\obj\Debug\net8.0\Monday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\Monday\Monday\obj\Debug\net8.0\Monday.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\Monday\Monday\obj\Debug\net8.0\Monday.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\Monday\Monday\obj\Debug\net8.0\Monday.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\Monday\Monday\obj\Debug\net8.0\Monday.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\Monday\Monday\obj\Debug\net8.0\Monday.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\Monday\Monday\obj\Debug\net8.0\refint\Monday.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\Monday\Monday\obj\Debug\net8.0\Monday.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\Monday\Monday\obj\Debug\net8.0\Monday.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\Monday\Monday\obj\Debug\net8.0\ref\Monday.dll

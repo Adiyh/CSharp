@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\ExpenseTracker\obj\Debug\net8.0\refint\ExpenseTracker.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\ExpenseTracker\obj\Debug\net8.0\ref\ExpenseTracker.dll

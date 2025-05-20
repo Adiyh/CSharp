@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\Stacksand Queues\bin\Debug\net8.0\Stacksand Queues.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\Stacksand Queues\bin\Debug\net8.0\Stacksand Queues.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\Stacksand Queues\bin\Debug\net8.0\Stacksand Queues.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\Stacksand Queues\bin\Debug\net8.0\Stacksand Queues.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\Stacksand Queues\bin\Debug\net8.0\Stacksand Queues.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\Stacksand Queues\obj\Debug\net8.0\Stacksand Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\Stacksand Queues\obj\Debug\net8.0\Stacksand Queues.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\Stacksand Queues\obj\Debug\net8.0\Stacksand Queues.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\Stacksand Queues\obj\Debug\net8.0\Stacksand Queues.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\Stacksand Queues\obj\Debug\net8.0\Stacksand Queues.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\Stacksand Queues\obj\Debug\net8.0\Stacksand Queues.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\Stacksand Queues\obj\Debug\net8.0\refint\Stacksand Queues.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\Stacksand Queues\obj\Debug\net8.0\Stacksand Queues.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\Stacksand Queues\obj\Debug\net8.0\Stacksand Queues.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\Stacksand Queues\obj\Debug\net8.0\ref\Stacksand Queues.dll

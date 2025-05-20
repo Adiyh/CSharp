@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\Inheritanceapp\obj\Debug\net8.0\Inheritanceapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\Inheritanceapp\obj\Debug\net8.0\Inheritanceapp.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\Inheritanceapp\obj\Debug\net8.0\Inheritanceapp.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\Inheritanceapp\obj\Debug\net8.0\Inheritanceapp.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\Inheritanceapp\obj\Debug\net8.0\Inheritanceapp.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\Inheritanceapp\bin\Debug\net8.0\Inheritanceapp.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\Inheritanceapp\bin\Debug\net8.0\Inheritanceapp.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\Inheritanceapp\bin\Debug\net8.0\Inheritanceapp.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\Inheritanceapp\bin\Debug\net8.0\Inheritanceapp.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\Inheritanceapp\bin\Debug\net8.0\Inheritanceapp.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\Inheritanceapp\obj\Debug\net8.0\Inheritanceapp.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\Inheritanceapp\obj\Debug\net8.0\refint\Inheritanceapp.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\Inheritanceapp\obj\Debug\net8.0\Inheritanceapp.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\Inheritanceapp\obj\Debug\net8.0\Inheritanceapp.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\Inheritanceapp\obj\Debug\net8.0\ref\Inheritanceapp.dll

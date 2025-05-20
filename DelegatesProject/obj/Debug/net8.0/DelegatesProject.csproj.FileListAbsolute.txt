@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\DelegatesProject\bin\Debug\net8.0\DelegatesProject.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\DelegatesProject\bin\Debug\net8.0\DelegatesProject.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\DelegatesProject\bin\Debug\net8.0\DelegatesProject.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\DelegatesProject\bin\Debug\net8.0\DelegatesProject.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\DelegatesProject\bin\Debug\net8.0\DelegatesProject.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\DelegatesProject\obj\Debug\net8.0\DelegatesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\DelegatesProject\obj\Debug\net8.0\DelegatesProject.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\DelegatesProject\obj\Debug\net8.0\DelegatesProject.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\DelegatesProject\obj\Debug\net8.0\DelegatesProject.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\DelegatesProject\obj\Debug\net8.0\DelegatesProject.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\DelegatesProject\obj\Debug\net8.0\DelegatesProject.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\DelegatesProject\obj\Debug\net8.0\refint\DelegatesProject.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\DelegatesProject\obj\Debug\net8.0\DelegatesProject.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\DelegatesProject\obj\Debug\net8.0\DelegatesProject.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\DelegatesProject\obj\Debug\net8.0\ref\DelegatesProject.dll

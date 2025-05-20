@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\MathFunctions\bin\Debug\net8.0\MathFunctions.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\MathFunctions\bin\Debug\net8.0\MathFunctions.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\MathFunctions\bin\Debug\net8.0\MathFunctions.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\MathFunctions\bin\Debug\net8.0\MathFunctions.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\MathFunctions\bin\Debug\net8.0\MathFunctions.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\MathFunctions\obj\Debug\net8.0\MathFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\MathFunctions\obj\Debug\net8.0\MathFunctions.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\MathFunctions\obj\Debug\net8.0\MathFunctions.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\MathFunctions\obj\Debug\net8.0\MathFunctions.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\MathFunctions\obj\Debug\net8.0\MathFunctions.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\MathFunctions\obj\Debug\net8.0\MathFunctions.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\MathFunctions\obj\Debug\net8.0\refint\MathFunctions.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\MathFunctions\obj\Debug\net8.0\MathFunctions.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\MathFunctions\obj\Debug\net8.0\MathFunctions.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\MathFunctions\obj\Debug\net8.0\ref\MathFunctions.dll

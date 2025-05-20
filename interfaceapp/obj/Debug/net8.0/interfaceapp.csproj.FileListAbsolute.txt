@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\interfaceapp\obj\Debug\net8.0\interfaceapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\interfaceapp\obj\Debug\net8.0\interfaceapp.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\interfaceapp\obj\Debug\net8.0\interfaceapp.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\interfaceapp\obj\Debug\net8.0\interfaceapp.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\interfaceapp\obj\Debug\net8.0\interfaceapp.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\interfaceapp\bin\Debug\net8.0\interfaceapp.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\interfaceapp\bin\Debug\net8.0\interfaceapp.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\interfaceapp\bin\Debug\net8.0\interfaceapp.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\interfaceapp\bin\Debug\net8.0\interfaceapp.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\interfaceapp\bin\Debug\net8.0\interfaceapp.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\interfaceapp\obj\Debug\net8.0\interfaceapp.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\interfaceapp\obj\Debug\net8.0\refint\interfaceapp.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\interfaceapp\obj\Debug\net8.0\interfaceapp.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\interfaceapp\obj\Debug\net8.0\interfaceapp.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\interfaceapp\obj\Debug\net8.0\ref\interfaceapp.dll

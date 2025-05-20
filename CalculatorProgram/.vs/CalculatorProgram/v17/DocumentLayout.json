@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\CalculatorProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FCDEDB-123C-449A-8A06-6915DC0A8E98}|CalculatorProgram.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\calculatorprogram\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FCDEDB-123C-449A-8A06-6915DC0A8E98}|CalculatorProgram.csproj|solutionrelative:models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FCDEDB-123C-449A-8A06-6915DC0A8E98}|CalculatorProgram.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\calculatorprogram\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FCDEDB-123C-449A-8A06-6915DC0A8E98}|CalculatorProgram.csproj|solutionrelative:mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FCDEDB-123C-449A-8A06-6915DC0A8E98}|CalculatorProgram.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\calculatorprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FCDEDB-123C-449A-8A06-6915DC0A8E98}|CalculatorProgram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FCDEDB-123C-449A-8A06-6915DC0A8E98}|CalculatorProgram.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\calculatorprogram\\models\\arithmitic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FCDEDB-123C-449A-8A06-6915DC0A8E98}|CalculatorProgram.csproj|solutionrelative:models\\arithmitic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FCDEDB-123C-449A-8A06-6915DC0A8E98}|CalculatorProgram.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\calculatorprogram\\operations\\findarithmatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FCDEDB-123C-449A-8A06-6915DC0A8E98}|CalculatorProgram.csproj|solutionrelative:operations\\findarithmatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FCDEDB-123C-449A-8A06-6915DC0A8E98}|CalculatorProgram.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\calculatorprogram\\models\\interest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FCDEDB-123C-449A-8A06-6915DC0A8E98}|CalculatorProgram.csproj|solutionrelative:models\\interest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FCDEDB-123C-449A-8A06-6915DC0A8E98}|CalculatorProgram.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\calculatorprogram\\operations\\findinterst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FCDEDB-123C-449A-8A06-6915DC0A8E98}|CalculatorProgram.csproj|solutionrelative:operations\\findinterst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Interest.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\CalculatorProgram\\models\\Interest.cs",
+              "RelativeDocumentMoniker": "models\\Interest.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\CalculatorProgram\\models\\Interest.cs",
+              "RelativeToolTip": "models\\Interest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:02:27.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FindInterst.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\CalculatorProgram\\Operations\\FindInterst.cs",
+              "RelativeDocumentMoniker": "Operations\\FindInterst.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\CalculatorProgram\\Operations\\FindInterst.cs",
+              "RelativeToolTip": "Operations\\FindInterst.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:04:03.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\CalculatorProgram\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\CalculatorProgram\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:03:23.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\CalculatorProgram\\MainClass.cs",
+              "RelativeDocumentMoniker": "MainClass.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\CalculatorProgram\\MainClass.cs",
+              "RelativeToolTip": "MainClass.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAvwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:02:26.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FindArithmatic.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\CalculatorProgram\\Operations\\FindArithmatic.cs",
+              "RelativeDocumentMoniker": "Operations\\FindArithmatic.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\CalculatorProgram\\Operations\\FindArithmatic.cs",
+              "RelativeToolTip": "Operations\\FindArithmatic.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:54:15.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\CalculatorProgram\\models\\Menu.cs",
+              "RelativeDocumentMoniker": "models\\Menu.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\CalculatorProgram\\models\\Menu.cs",
+              "RelativeToolTip": "models\\Menu.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwDEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:53:49.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Arithmitic.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\CalculatorProgram\\models\\Arithmitic.cs",
+              "RelativeDocumentMoniker": "models\\Arithmitic.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\CalculatorProgram\\models\\Arithmitic.cs",
+              "RelativeToolTip": "models\\Arithmitic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:53:48.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

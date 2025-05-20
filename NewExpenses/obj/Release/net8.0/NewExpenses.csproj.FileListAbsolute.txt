@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\NewExpenses\bin\Release\net8.0\NewExpenses.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\NewExpenses\bin\Release\net8.0\NewExpenses.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\NewExpenses\bin\Release\net8.0\NewExpenses.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\NewExpenses\bin\Release\net8.0\NewExpenses.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\NewExpenses\bin\Release\net8.0\NewExpenses.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\NewExpenses\obj\Release\net8.0\NewExpenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\NewExpenses\obj\Release\net8.0\NewExpenses.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\NewExpenses\obj\Release\net8.0\NewExpenses.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\NewExpenses\obj\Release\net8.0\NewExpenses.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\NewExpenses\obj\Release\net8.0\NewExpenses.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\NewExpenses\obj\Release\net8.0\NewExpenses.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\NewExpenses\obj\Release\net8.0\refint\NewExpenses.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\NewExpenses\obj\Release\net8.0\NewExpenses.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\NewExpenses\obj\Release\net8.0\NewExpenses.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\NewExpenses\obj\Release\net8.0\ref\NewExpenses.dll

@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSharp\\LaptopWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C93DD801-CEB1-BF24-F07B-4FCC590ECADD}|..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\LaptopService.csproj|c:\\users\\adars\\onedrive\\desktop\\laptopservice\\infrastructure\\repositories\\concreteclass\\laptoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93DD801-CEB1-BF24-F07B-4FCC590ECADD}|..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\LaptopService.csproj|c:\\users\\adars\\onedrive\\desktop\\laptopservice\\infrastructure\\repositories\\concreteclass\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93DD801-CEB1-BF24-F07B-4FCC590ECADD}|..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\LaptopService.csproj|c:\\users\\adars\\onedrive\\desktop\\laptopservice\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93DD801-CEB1-BF24-F07B-4FCC590ECADD}|..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\LaptopService.csproj|c:\\users\\adars\\onedrive\\desktop\\laptopservice\\models\\devicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93DD801-CEB1-BF24-F07B-4FCC590ECADD}|..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\LaptopService.csproj|c:\\users\\adars\\onedrive\\desktop\\laptopservice\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93DD801-CEB1-BF24-F07B-4FCC590ECADD}|..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\LaptopService.csproj|c:\\users\\adars\\onedrive\\desktop\\laptopservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93DD801-CEB1-BF24-F07B-4FCC590ECADD}|..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\LaptopService.csproj|c:\\users\\adars\\onedrive\\desktop\\laptopservice\\utility\\encryptionsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93DD801-CEB1-BF24-F07B-4FCC590ECADD}|..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\LaptopService.csproj|c:\\users\\adars\\onedrive\\desktop\\laptopservice\\utility\\encryptionlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C18845-D9AD-44BB-9947-E67257753981}|LaptopWebApi.csproj|c:\\csharp\\laptopwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C18845-D9AD-44BB-9947-E67257753981}|LaptopWebApi.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C18845-D9AD-44BB-9947-E67257753981}|LaptopWebApi.csproj|c:\\csharp\\laptopwebapi\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C18845-D9AD-44BB-9947-E67257753981}|LaptopWebApi.csproj|solutionrelative:controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93DD801-CEB1-BF24-F07B-4FCC590ECADD}|..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\LaptopService.csproj|c:\\users\\adars\\onedrive\\desktop\\laptopservice\\core\\services\\concreteclass\\laptopservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93DD801-CEB1-BF24-F07B-4FCC590ECADD}|..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\LaptopService.csproj|c:\\users\\adars\\onedrive\\desktop\\laptopservice\\core\\services\\concreteclass\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C18845-D9AD-44BB-9947-E67257753981}|LaptopWebApi.csproj|c:\\csharp\\laptopwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C18845-D9AD-44BB-9947-E67257753981}|LaptopWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93DD801-CEB1-BF24-F07B-4FCC590ECADD}|..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\LaptopService.csproj|c:\\users\\adars\\onedrive\\desktop\\laptopservice\\infrastructure\\repositories\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93DD801-CEB1-BF24-F07B-4FCC590ECADD}|..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\LaptopService.csproj|c:\\users\\adars\\onedrive\\desktop\\laptopservice\\infrastructure\\repositories\\interface\\ilaptoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93DD801-CEB1-BF24-F07B-4FCC590ECADD}|..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\LaptopService.csproj|c:\\users\\adars\\onedrive\\desktop\\laptopservice\\core\\services\\interface\\ilaptopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93DD801-CEB1-BF24-F07B-4FCC590ECADD}|..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\LaptopService.csproj|c:\\users\\adars\\onedrive\\desktop\\laptopservice\\core\\services\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C18845-D9AD-44BB-9947-E67257753981}|LaptopWebApi.csproj|c:\\csharp\\laptopwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9C18845-D9AD-44BB-9947-E67257753981}|LaptopWebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C18845-D9AD-44BB-9947-E67257753981}|LaptopWebApi.csproj|c:\\csharp\\laptopwebapi\\laptopwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9C18845-D9AD-44BB-9947-E67257753981}|LaptopWebApi.csproj|solutionrelative:laptopwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:17:19.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EncryptionLogic.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Utility\\EncryptionLogic.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Utility\\EncryptionLogic.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Utility\\EncryptionLogic.cs",
+              "RelativeToolTip": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Utility\\EncryptionLogic.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwDcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:35:42.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EncryptionSettings.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Utility\\EncryptionSettings.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Utility\\EncryptionSettings.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Utility\\EncryptionSettings.cs",
+              "RelativeToolTip": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Utility\\EncryptionSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:36:02.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Models\\User.cs",
+              "RelativeToolTip": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:18:15.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Models\\Laptop.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Models\\Laptop.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Models\\Laptop.cs",
+              "RelativeToolTip": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Models\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:18:31.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeviceDetails.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Models\\DeviceDetails.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Models\\DeviceDetails.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Models\\DeviceDetails.cs",
+              "RelativeToolTip": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Models\\DeviceDetails.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:32:52.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Infrastructure\\Repositories\\ConcreteClass\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Infrastructure\\Repositories\\ConcreteClass\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Infrastructure\\Repositories\\ConcreteClass\\UserRepository.cs",
+              "RelativeToolTip": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Infrastructure\\Repositories\\ConcreteClass\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:09:12.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LaptopRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Infrastructure\\Repositories\\ConcreteClass\\LaptopRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Infrastructure\\Repositories\\ConcreteClass\\LaptopRepository.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Infrastructure\\Repositories\\ConcreteClass\\LaptopRepository.cs",
+              "RelativeToolTip": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Infrastructure\\Repositories\\ConcreteClass\\LaptopRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:37:54.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\CSharp\\LaptopWebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\CSharp\\LaptopWebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:48:49.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "C:\\CSharp\\LaptopWebApi\\Controllers\\DeviceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeviceController.cs",
+              "ToolTip": "C:\\CSharp\\LaptopWebApi\\Controllers\\DeviceController.cs",
+              "RelativeToolTip": "Controllers\\DeviceController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:45:26.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LaptopServices.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Core\\Services\\ConcreteClass\\LaptopServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Core\\Services\\ConcreteClass\\LaptopServices.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Core\\Services\\ConcreteClass\\LaptopServices.cs",
+              "RelativeToolTip": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Core\\Services\\ConcreteClass\\LaptopServices.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwFYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:12:18.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Core\\Services\\ConcreteClass\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Core\\Services\\ConcreteClass\\AuthService.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Core\\Services\\ConcreteClass\\AuthService.cs",
+              "RelativeToolTip": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Core\\Services\\ConcreteClass\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:05:35.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharp\\LaptopWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\CSharp\\LaptopWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:41:24.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Infrastructure\\Repositories\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Infrastructure\\Repositories\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Infrastructure\\Repositories\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Infrastructure\\Repositories\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:13:00.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ILaptopRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Infrastructure\\Repositories\\Interface\\ILaptopRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Infrastructure\\Repositories\\Interface\\ILaptopRepository.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Infrastructure\\Repositories\\Interface\\ILaptopRepository.cs",
+              "RelativeToolTip": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Infrastructure\\Repositories\\Interface\\ILaptopRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:32:09.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ILaptopService.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Core\\Services\\Interface\\ILaptopService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Core\\Services\\Interface\\ILaptopService.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Core\\Services\\Interface\\ILaptopService.cs",
+              "RelativeToolTip": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Core\\Services\\Interface\\ILaptopService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:25:29.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Core\\Services\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Core\\Services\\Interface\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Core\\Services\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "..\\..\\Users\\adars\\OneDrive\\Desktop\\LaptopService\\Core\\Services\\Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:35:20.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\CSharp\\LaptopWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\CSharp\\LaptopWebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T09:38:34.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LaptopWebApi.csproj",
+              "DocumentMoniker": "C:\\CSharp\\LaptopWebApi\\LaptopWebApi.csproj",
+              "RelativeDocumentMoniker": "LaptopWebApi.csproj",
+              "ToolTip": "C:\\CSharp\\LaptopWebApi\\LaptopWebApi.csproj",
+              "RelativeToolTip": "LaptopWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T01:41:18.977Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "ContainingType": "LaptopWebApi.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/user-login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaptopWebApi.Controllers.DeviceController",
+    "Method": "Delete",
+    "RelativePath": "api/Device/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaptopWebApi.Controllers.DeviceController",
+    "Method": "AddNewLaptopDetails",
+    "RelativePath": "api/Device/AddNewLaptopDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "laptop",
+        "Type": "LaptopService.Models.Laptop",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaptopWebApi.Controllers.DeviceController",
+    "Method": "GetAllLaptopDetails",
+    "RelativePath": "api/Device/GetAllLaptopDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaptopWebApi.Controllers.DeviceController",
+    "Method": "GetLaptopDetailsById",
+    "RelativePath": "api/Device/GetLaptopDetailsById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LaptopService.Models.Laptop",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LaptopWebApi.Controllers.DeviceController",
+    "Method": "UpdateLaptopDetails",
+    "RelativePath": "api/Device/UpdateLaptopDetails",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "laptop",
+        "Type": "LaptopService.Models.Laptop",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

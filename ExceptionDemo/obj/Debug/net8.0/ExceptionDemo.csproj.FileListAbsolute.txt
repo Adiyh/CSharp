@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\ExceptionDemo\bin\Debug\net8.0\ExceptionDemo.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\ExceptionDemo\bin\Debug\net8.0\ExceptionDemo.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\ExceptionDemo\bin\Debug\net8.0\ExceptionDemo.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\ExceptionDemo\bin\Debug\net8.0\ExceptionDemo.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\ExceptionDemo\bin\Debug\net8.0\ExceptionDemo.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\ExceptionDemo\obj\Debug\net8.0\refint\ExceptionDemo.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\ExceptionDemo\obj\Debug\net8.0\ref\ExceptionDemo.dll

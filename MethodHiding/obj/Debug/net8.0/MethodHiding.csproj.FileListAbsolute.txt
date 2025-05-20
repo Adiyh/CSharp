@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\MethodHiding\bin\Debug\net8.0\MethodHiding.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\MethodHiding\bin\Debug\net8.0\MethodHiding.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\MethodHiding\bin\Debug\net8.0\MethodHiding.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\MethodHiding\bin\Debug\net8.0\MethodHiding.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\MethodHiding\bin\Debug\net8.0\MethodHiding.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\MethodHiding\obj\Debug\net8.0\MethodHiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\MethodHiding\obj\Debug\net8.0\MethodHiding.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\MethodHiding\obj\Debug\net8.0\MethodHiding.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\MethodHiding\obj\Debug\net8.0\MethodHiding.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\MethodHiding\obj\Debug\net8.0\MethodHiding.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\MethodHiding\obj\Debug\net8.0\MethodHiding.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\MethodHiding\obj\Debug\net8.0\refint\MethodHiding.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\MethodHiding\obj\Debug\net8.0\MethodHiding.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\MethodHiding\obj\Debug\net8.0\MethodHiding.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\MethodHiding\obj\Debug\net8.0\ref\MethodHiding.dll

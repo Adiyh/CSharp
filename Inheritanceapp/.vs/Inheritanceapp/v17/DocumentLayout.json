@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritanceapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB24D4DA-4EE4-45C0-B31A-4112A3B1DE2D}|Inheritanceapp.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\inheritanceapp\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB24D4DA-4EE4-45C0-B31A-4112A3B1DE2D}|Inheritanceapp.csproj|solutionrelative:class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB24D4DA-4EE4-45C0-B31A-4112A3B1DE2D}|Inheritanceapp.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\inheritanceapp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB24D4DA-4EE4-45C0-B31A-4112A3B1DE2D}|Inheritanceapp.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB24D4DA-4EE4-45C0-B31A-4112A3B1DE2D}|Inheritanceapp.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\inheritanceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB24D4DA-4EE4-45C0-B31A-4112A3B1DE2D}|Inheritanceapp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritanceapp\\Class2.cs",
+              "RelativeDocumentMoniker": "Class2.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritanceapp\\Class2.cs",
+              "RelativeToolTip": "Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:41:29.32Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritanceapp\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritanceapp\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:39:05.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritanceapp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritanceapp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:38:33.853Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

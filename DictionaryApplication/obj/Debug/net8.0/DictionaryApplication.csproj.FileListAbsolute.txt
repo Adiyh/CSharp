@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\DictionaryApplication\bin\Debug\net8.0\DictionaryApplication.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\DictionaryApplication\bin\Debug\net8.0\DictionaryApplication.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\DictionaryApplication\bin\Debug\net8.0\DictionaryApplication.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\DictionaryApplication\bin\Debug\net8.0\DictionaryApplication.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\DictionaryApplication\bin\Debug\net8.0\DictionaryApplication.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\DictionaryApplication\obj\Debug\net8.0\DictionaryApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\DictionaryApplication\obj\Debug\net8.0\DictionaryApplication.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\DictionaryApplication\obj\Debug\net8.0\DictionaryApplication.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\DictionaryApplication\obj\Debug\net8.0\DictionaryApplication.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\DictionaryApplication\obj\Debug\net8.0\DictionaryApplication.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\DictionaryApplication\obj\Debug\net8.0\DictionaryApplication.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\DictionaryApplication\obj\Debug\net8.0\refint\DictionaryApplication.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\DictionaryApplication\obj\Debug\net8.0\DictionaryApplication.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\DictionaryApplication\obj\Debug\net8.0\DictionaryApplication.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\DictionaryApplication\obj\Debug\net8.0\ref\DictionaryApplication.dll

@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\SingleThread\obj\Debug\net8.0\SingleThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\SingleThread\obj\Debug\net8.0\SingleThread.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\SingleThread\obj\Debug\net8.0\SingleThread.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\SingleThread\obj\Debug\net8.0\SingleThread.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\SingleThread\obj\Debug\net8.0\SingleThread.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\SingleThread\bin\Debug\net8.0\SingleThread.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\SingleThread\bin\Debug\net8.0\SingleThread.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\SingleThread\bin\Debug\net8.0\SingleThread.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\SingleThread\bin\Debug\net8.0\SingleThread.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\SingleThread\bin\Debug\net8.0\SingleThread.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\SingleThread\obj\Debug\net8.0\SingleThread.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\SingleThread\obj\Debug\net8.0\refint\SingleThread.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\SingleThread\obj\Debug\net8.0\SingleThread.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\SingleThread\obj\Debug\net8.0\SingleThread.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\SingleThread\obj\Debug\net8.0\ref\SingleThread.dll

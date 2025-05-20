@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\CalculatorProgram\bin\Debug\net8.0\CalculatorProgram.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\CalculatorProgram\bin\Debug\net8.0\CalculatorProgram.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\CalculatorProgram\bin\Debug\net8.0\CalculatorProgram.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\CalculatorProgram\bin\Debug\net8.0\CalculatorProgram.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\CalculatorProgram\bin\Debug\net8.0\CalculatorProgram.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\CalculatorProgram\obj\Debug\net8.0\refint\CalculatorProgram.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\CalculatorProgram\obj\Debug\net8.0\ref\CalculatorProgram.dll

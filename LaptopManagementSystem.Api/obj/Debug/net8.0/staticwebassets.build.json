@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0FQPieksEGfWqYrGK1T8cotIq8lkr9DPO5KC0ElH8C8=",
+  "Source": "LaptopWebApi",
+  "BasePath": "_content/LaptopWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

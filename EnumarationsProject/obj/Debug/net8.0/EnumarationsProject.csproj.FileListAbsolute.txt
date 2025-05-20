@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\EnumarationsProject\obj\Debug\net8.0\EnumarationsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\EnumarationsProject\obj\Debug\net8.0\EnumarationsProject.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\EnumarationsProject\obj\Debug\net8.0\EnumarationsProject.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\EnumarationsProject\obj\Debug\net8.0\EnumarationsProject.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\EnumarationsProject\obj\Debug\net8.0\EnumarationsProject.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\EnumarationsProject\bin\Debug\net8.0\EnumarationsProject.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\EnumarationsProject\bin\Debug\net8.0\EnumarationsProject.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\EnumarationsProject\bin\Debug\net8.0\EnumarationsProject.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\EnumarationsProject\bin\Debug\net8.0\EnumarationsProject.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\EnumarationsProject\bin\Debug\net8.0\EnumarationsProject.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\EnumarationsProject\obj\Debug\net8.0\EnumarationsProject.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\EnumarationsProject\obj\Debug\net8.0\refint\EnumarationsProject.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\EnumarationsProject\obj\Debug\net8.0\EnumarationsProject.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\EnumarationsProject\obj\Debug\net8.0\EnumarationsProject.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\EnumarationsProject\obj\Debug\net8.0\ref\EnumarationsProject.dll

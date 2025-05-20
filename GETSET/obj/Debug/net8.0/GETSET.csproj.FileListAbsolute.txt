@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\GETSET\obj\Debug\net8.0\GETSET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\GETSET\obj\Debug\net8.0\GETSET.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\GETSET\obj\Debug\net8.0\GETSET.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\GETSET\obj\Debug\net8.0\GETSET.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\GETSET\obj\Debug\net8.0\GETSET.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\GETSET\bin\Debug\net8.0\GETSET.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\GETSET\bin\Debug\net8.0\GETSET.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\GETSET\bin\Debug\net8.0\GETSET.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\GETSET\bin\Debug\net8.0\GETSET.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\GETSET\bin\Debug\net8.0\GETSET.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\GETSET\obj\Debug\net8.0\GETSET.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\GETSET\obj\Debug\net8.0\refint\GETSET.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\GETSET\obj\Debug\net8.0\GETSET.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\GETSET\obj\Debug\net8.0\GETSET.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\GETSET\obj\Debug\net8.0\ref\GETSET.dll

@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4338DE-2302-4095-9B65-1391DDAD8921}|Inheritance.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\inheritance\\modules\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4338DE-2302-4095-9B65-1391DDAD8921}|Inheritance.csproj|solutionrelative:modules\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4338DE-2302-4095-9B65-1391DDAD8921}|Inheritance.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\inheritance\\schoolinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4338DE-2302-4095-9B65-1391DDAD8921}|Inheritance.csproj|solutionrelative:schoolinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4338DE-2302-4095-9B65-1391DDAD8921}|Inheritance.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\inheritance\\designation\\attender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4338DE-2302-4095-9B65-1391DDAD8921}|Inheritance.csproj|solutionrelative:designation\\attender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4338DE-2302-4095-9B65-1391DDAD8921}|Inheritance.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\inheritance\\designation\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4338DE-2302-4095-9B65-1391DDAD8921}|Inheritance.csproj|solutionrelative:designation\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4338DE-2302-4095-9B65-1391DDAD8921}|Inheritance.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\inheritance\\designation\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4338DE-2302-4095-9B65-1391DDAD8921}|Inheritance.csproj|solutionrelative:designation\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4338DE-2302-4095-9B65-1391DDAD8921}|Inheritance.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4338DE-2302-4095-9B65-1391DDAD8921}|Inheritance.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Attender.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\Designation\\Attender.cs",
+              "RelativeDocumentMoniker": "Designation\\Attender.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\Designation\\Attender.cs",
+              "RelativeToolTip": "Designation\\Attender.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:12:19.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\Designation\\Teacher.cs",
+              "RelativeDocumentMoniker": "Designation\\Teacher.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\Designation\\Teacher.cs",
+              "RelativeToolTip": "Designation\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:01:37.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\Designation\\Student.cs",
+              "RelativeDocumentMoniker": "Designation\\Student.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\Designation\\Student.cs",
+              "RelativeToolTip": "Designation\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:08:13.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "School.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\modules\\School.cs",
+              "RelativeDocumentMoniker": "modules\\School.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\modules\\School.cs",
+              "RelativeToolTip": "modules\\School.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:58:07.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolInheritance.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\SchoolInheritance.cs",
+              "RelativeDocumentMoniker": "SchoolInheritance.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\SchoolInheritance.cs",
+              "RelativeToolTip": "SchoolInheritance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:55:20.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:50:48.378Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
